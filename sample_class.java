@@ -19,7 +19,7 @@ public class sample_class
         x = 0;
     }
     public static void mian(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello Dinesh!");
     }
     /**
      * An example of a method - replace this comment with your own
